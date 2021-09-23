@@ -1,1 +1,3 @@
-"# segmentation-flask-app" 
+# TO DO'S
+
+* add readme.md
